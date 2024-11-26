@@ -1,5 +1,5 @@
 <div id="top">
-<h1 align="center">Healthcare-Service🧑‍⚕️</h1>
+<h1 align="center">Rentify App</h1>
 
 <h3>📝 Description :</h3> 
 Welcome to our comprehensive healthcare platform! Our website offers a seamless experience for users  alike. Sign up or log in to unlock a range of features. Easily browse through a list of available products, manage your profile, and submit queries effortlessly. Stay updated with notifications and enjoy secure access to your information. Aspiring sort can apply through our user-friendly system. Book a product with your and pay the amount based on the product price. Admin features ensure smooth operations, including approval of product shipment and user management. Rest assured, all data is stored securely. Join us to experience a new era of convenient and efficient product interactions.
